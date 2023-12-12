@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(205, 126, 139);
+}
+.container{
+    text-align: center;
+    background: white;
+    width: 450px;
+    height: 350px;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 2px black;
+}
+h1{
+    padding: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(15, 96, 167);
+}
+input{
+    width: 120px;
+    padding: 8px;
+}
+select{
+    width: 120px;
+    padding: 8px;
+}
+button{
+    padding: 10px;
+    margin-top: 30px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(19, 113, 160);
+    color: white;
+    cursor: pointer;
+}
+#result{
+    padding: 10px;
+    color: black;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
